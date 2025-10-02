@@ -1,6 +1,6 @@
-# SOAP Test
+# Fakturirane.bg SOAP Api Example
 
-A simple project to experiment with SOAP-based web services.
+A simple example project to showcase how to use the Fakturirane SOAP api via Nodejs
 
 ## Features
 
